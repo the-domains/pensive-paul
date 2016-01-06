@@ -1,0 +1,28 @@
+name: Pensive Paul
+favicon: null
+layout_spectrum: 0.22321524121798575
+typography_spectrum: 0.6837181327864528
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6014102241024375
+  lightness: 0.7539670167025179
+  saturation: 0.13306582206860185
+  rhythmicContrast: 0.5542199593037367
+purpose: []
